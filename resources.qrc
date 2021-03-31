@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/go-next.png</file>
+        <file>image/go-previous.png</file>
+        <file>image/icon.ico</file>
+        <file>image/logo.png</file>
+        <file>image/process-stop.png</file>
+        <file>image/search.png</file>
+        <file>image/view-refresh.png</file>
+    </qresource>
+</RCC>

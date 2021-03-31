@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ApplicationRoot.qml</file>
+        <file>BrowserDialog.qml</file>
+        <file>BrowserWindow.qml</file>
+        <file>DownloadView.qml</file>
+        <file>FullScreenNotification.qml</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>icons/3rdparty/go-next.png</file>
+        <file>icons/3rdparty/go-previous.png</file>
+        <file>icons/3rdparty/process-stop.png</file>
+        <file>icons/3rdparty/view-refresh.png</file>
+        <file>image/go-next.png</file>
+        <file>image/go-previous.png</file>
+        <file>image/icon.ico</file>
+        <file>image/logo.png</file>
+        <file>image/process-stop.png</file>
+        <file>image/search.png</file>
+        <file>image/view-refresh.png</file>
+    </qresource>
+</RCC>
